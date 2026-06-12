@@ -42,3 +42,19 @@ h1 {
 .content {
   margin: 3.2rem; /* 32px */
 }
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.formRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2.4rem;
+}
